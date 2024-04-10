@@ -1,0 +1,13 @@
+http://localhost:8010/products
+
+###
+POST http://localhost:8010/product
+Content-Type: application/json
+
+{"name":"test product 3", "price": 33.44}
+
+###
+http://localhost:8010/product/priciest
+
+###
+http://localhost:8010/product/cheapest
