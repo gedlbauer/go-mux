@@ -1,4 +1,4 @@
-GitHub Actions Status: [![Build Status](https://github.com/gedlbauer/go-mux/actions/workflows/go.yml/badge.svg)
+GitHub Actions Status: ![Build Status](https://github.com/gedlbauer/go-mux/actions/workflows/go.yml/badge.svg)
 
 # go-mux: Microservice in GoTutorial
 
