@@ -12,4 +12,3 @@ GitHub Actions Status: ![Build Status](https://github.com/gedlbauer/go-mux/actio
 
 ### Hints/Info
 - When you run go test it compiles all the files ending in _test.go into a test binary and then runs that binary to execute the tests. Since the go test binary is simply a compiled go program, it can process command line arguments like any other program
-- 
